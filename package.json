@@ -1,0 +1,36 @@
+{
+  "name": "universal-registration",
+  "version": "1.0.4",
+  "description": "The universal-registration npm package provides a versatile and easy-to-use common registration module for web applications. Seamlessly integrate user registration functionality into your projects with a focus on simplicity and flexibility.",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upenderIBD/universal-registration.git"
+  },
+  "engines": {
+    "node": "^18.17.1"
+  },
+  "keywords": [
+    "registration",
+    "user",
+    "authentication"
+  ],
+  "author": "upender K",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/upenderIBD/universal-registration/issues"
+  },
+  "homepage": "https://github.com/upenderIBD/universal-registration#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "axios": "^1.6.2",
+    "eslint": "^8.56.0"
+  }
+}
