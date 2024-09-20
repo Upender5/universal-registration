@@ -5,7 +5,7 @@
 To use the package, simply install it using npm:
 
 ## Installation
-npm i universal-registration
+⭐⭐⭐ npm i universal-registration
 
 🚀 Next, you can create an instance of the RegistrationModule and start using its methods:
 
