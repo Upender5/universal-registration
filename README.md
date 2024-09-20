@@ -26,4 +26,4 @@ Feel free to explore the package documentation for more detailed information on 
 
 🎉 That's great! I'm glad you found this helpful. Happy coding!
 
-P.S. Here's a GitHub link for your reference: https://github.com/upenderIBD/universal-registration
+P.S. Here's a GitHub link for your reference: https://github.com/Upender5/universal-registration
